@@ -29,9 +29,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zofialpetersen
 
 # Build settings
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
