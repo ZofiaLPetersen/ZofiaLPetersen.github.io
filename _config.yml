@@ -20,7 +20,6 @@
 
 title: Some fancy webpage
 email: zofiapetersenski@gmail.com
-email: s194666@student.dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -34,6 +33,11 @@ github_username:  ZofiaLPetersen
 theme: cayman
 plugins:
   - jekyll-feed
+  - jemoji
+  - jekyll-spaceship
+  - jekyll-mentions
+  - jekyll-sitemap
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
