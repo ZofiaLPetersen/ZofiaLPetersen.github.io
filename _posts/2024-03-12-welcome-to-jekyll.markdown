@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the jungle"
+title:  "Some random page"
 date:   2024-03-12 10:10:30 +0100
 categories: jekyll update
 ---
